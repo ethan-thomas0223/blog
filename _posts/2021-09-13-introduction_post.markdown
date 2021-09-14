@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title:  "Intro Post!"
+date:   2021-09-13 21:37:47
+categories:
 ---
 # This is my first post using the Jekyll framework.
 The things that were new to me were
