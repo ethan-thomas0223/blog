@@ -16,3 +16,6 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+Outside of the Jekyll Information, it is important to know some stuff about the author, Me.
+I am in College and love Baseball, I also enjoy computer science! :)
