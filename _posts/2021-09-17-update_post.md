@@ -18,5 +18,5 @@ and forking new themes, but I could probably figure that out if I devote more ti
 
 I am looking forward to learning how to working on the clients website.
 
- ![style](town.jpg)
- ![baseball](baseball.jpg)
+ ![style](https://th.bing.com/th/id/OIP.kNJ_U49fYk8ZEa3F_csfsgHaNU?w=116&h=188&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+ ![baseball](https://th.bing.com/th/id/OIP.Txw3i5_iyRiBenG2fjoDyQHaES?w=279&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
