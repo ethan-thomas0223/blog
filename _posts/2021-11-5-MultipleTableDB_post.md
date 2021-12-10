@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SQL"
+title:  "Lab 8"
 date:   2021-11-5 11:51:41
 categories:
 ---
@@ -17,4 +17,4 @@ Tings I found difficult were:
 
 I had issues after my page got scaffolded as I think that some files were left out of the scaffolding. This made me unable to complete the rest of the lab.  
 
-However, I have learned from this and am ready to create a good product for Dr. Hill. 
+However, I have learned from this and am ready to create a good product for Dr. Hill.
